@@ -10,7 +10,7 @@
 
 body {
     font-family: 'Inter', sans-serif;
-    background-color: #020617; /* Fondo oscuro profundo */
+    background-color: #020617; 
     color: #F9FAFB;
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
@@ -65,15 +65,14 @@ h2 {
 
 /* IMÁGENES Y ENLACES */
 a {
-    cursor: default; /* Mantiene la flecha como pediste */
+    cursor: default; 
     display: block;
     text-decoration: none;
 }
 
-/* Efecto en el contenedor de la imagen */
 main img {
     width: 100%;
-    max-width: 600px; /* Evita que las fotos sean gigantes en PC */
+    max-width: 600px;
     display: block;
     margin: 0 auto;
     border-radius: 12px;
@@ -81,7 +80,6 @@ main img {
     cursor: pointer;
 }
 
-/* Al pasar el mouse por el link que envuelve la imagen */
 a:hover img {
     transform: scale(1.03) translateY(-5px);
     box-shadow: 0 15px 30px rgba(56, 189, 248, 0.2);
