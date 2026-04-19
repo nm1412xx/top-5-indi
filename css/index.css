@@ -19,7 +19,7 @@ body {
 main {
     background-color: #0F172A;
     box-shadow: 0 10px 40px rgba(56, 189, 248, 0.1);
-    max-width: 90%;
+    max-width: 60%;
     margin: 40px auto;
     padding: clamp(20px, 5vw, 40px);
     border-radius: 20px;
