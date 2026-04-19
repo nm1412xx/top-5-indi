@@ -18,7 +18,7 @@ body{
 main{
     background-color: #0F172A;
     box-shadow: 0 10px 30px rgba(56, 189, 248, 0.15);
-    max-width: 800px;
+    max-width: 90%;
     margin: 40px auto;
     padding: 30px;
     border-radius: 20px;
@@ -27,8 +27,8 @@ main{
 
 .contenedor-imagen {
     display: flex;
-    justify-content: center; /* Centrado horizontal */
-    align-items: center;     /* Centrado vertical (opcional) */
+    justify-content: center; 
+    align-items: center;   
 }
 /*TITULOS*/
 h1{
