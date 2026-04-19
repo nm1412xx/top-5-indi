@@ -166,7 +166,7 @@ tbody tr:last-child td{
 /*RESPONSING*/
 @media (max-width: 768px){
     main{
-        max-width:600px ;
+        max-width:90% ;
         padding: 20px;
     }
     h1{
