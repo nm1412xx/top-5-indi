@@ -65,7 +65,8 @@ h2 {
 /* IMÁGENES Y ENLACES */
 button{
     border: none;
-    background-color: #FFF;
+    background-color: transparent;
+    color: #FFF;
     transition: transform 0.3s;
     font-size: 20px;
     cursor: pointer;
